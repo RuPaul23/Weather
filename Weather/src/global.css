@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-nunito: Nunito;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-sm-5: 13.5px;
+  --font-size-mini: 15px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-lg: 18px;
+  --font-size-2xs: 11px;
+
+  /* Colors */
+  --color-gray: #1e1e1e;
+  --color-whitesmoke: #f1f1f1;
+  --color-white: #fff;
+  --color-cornflowerblue: #5c9ce5;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-11xl: 30px;
+  --br-3xs: 10px;
+  --br-21xl: 40px;
+  --br-31xl: 50px;
+}
